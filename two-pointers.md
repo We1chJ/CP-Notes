@@ -1,12 +1,16 @@
 # Two Pointers
 
+Two pointers can be employed or at least considered, when the movement of each pointer has a **single-direction** (monotonous) effect on some values:
+
+## [Sliding Window](two-pointers.md#sliding-window)
+
+For example, moving the right pointer forward only increases the sum whereas moving the left pointer forward only decreases the sum. Two pointers like this can be used effectively in [Sliding Window ](two-pointers.md#sliding-window)problems. (Famously, [@lee's solutions](https://leetcode.com/problems/binary-subarrays-with-sum/solutions/186683/c-java-python-sliding-window-o-1-space/?envType=daily-question\&envId=2024-03-14))
+
+{% embed url="https://leetcode.com/problems/binary-subarrays-with-sum/description/" %}
+
+
+
 Two pointers can be used to perform traversal of data structures like arrays and linkedlists in efficient way (usually in O(N) amortized time)
-
-
-
-
-
-
 
 ## Traversal over linkedlist
 
