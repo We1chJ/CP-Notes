@@ -11,3 +11,5 @@ If `prefix[b] == prefix[a]`, `sum(a, b, array) = 0` .
 
 
 {% embed url="https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description/" %}
+
+{% embed url="https://leetcode.com/problems/contiguous-array/description" %}

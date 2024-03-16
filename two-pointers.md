@@ -12,7 +12,7 @@ For example, moving the right pointer forward only increases the sum whereas mov
 
 Two pointers can be used to perform traversal of data structures like arrays and linkedlists in efficient way (usually in O(N) amortized time)
 
-## Traversal over linkedlist
+## Traversal Over Linkedlist
 
 Having a slow pointer and fast pointer on a linked list with different starting positions, and then traverse synchronously.&#x20;
 
