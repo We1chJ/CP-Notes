@@ -1,6 +1,7 @@
 # Table of contents
 
 * [README](README.md)
+* [Misc](misc.md)
 * [Sliding Window](sliding-window.md)
 * [Two Pointers](two-pointers.md)
 * [Prefix Sum](prefix-sum.md)
