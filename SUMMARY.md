@@ -2,6 +2,7 @@
 
 * [README](README.md)
 * [Misc](misc.md)
+* [Binary Search](binary-search.md)
 * [Sliding Window](sliding-window.md)
 * [Two Pointers](two-pointers.md)
 * [Prefix Sum](prefix-sum.md)

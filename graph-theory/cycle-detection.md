@@ -8,6 +8,8 @@ Wiki for methods for cycle detections
 
 ## Floyd's Cycle Detection:
 
+a.k.a "tortoise and the hare algorithm"
+
 
 
 
