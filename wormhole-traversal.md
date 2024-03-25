@@ -12,6 +12,10 @@ If we have a 1D array of size `n`, and every element has a **unique** value betw
 
 Essentially we treat the value of each element of this array as the index of the next element to go to, and turn the array traversal into a linkedlist traversal. This linked list is guaranteed to contain cycles (again, may vary). Any further cycle detections/manipulations can be potentially connected to [floyds-cycle-detection.md](graph-theory/floyds-cycle-detection.md "mention")
 
+## Notes
+
+* This is a very insightful choice especially when numbers are unique in an array, which established the constraints that the `in-degree` and `out-degree` of every element is strictly 1.
+
 ## Problems
 
 {% embed url="https://leetcode.com/problems/find-the-duplicate-number/description/" %}
