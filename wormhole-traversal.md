@@ -15,3 +15,5 @@ Essentially we treat the value of each element of this array as the index of the
 ## Problems
 
 {% embed url="https://leetcode.com/problems/find-the-duplicate-number/description/" %}
+
+{% embed url="https://leetcode.com/problems/find-all-duplicates-in-an-array/description/" %}
