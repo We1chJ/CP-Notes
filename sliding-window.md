@@ -19,3 +19,5 @@ If we can solve the problem: How many **AtMost K** easily, we can find out How m
 {% embed url="https://leetcode.com/problems/binary-subarrays-with-sum/description/]" %}
 
 {% embed url="https://leetcode.com/problems/subarray-product-less-than-k/description/" %}
+
+{% embed url="https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/description/" %}
