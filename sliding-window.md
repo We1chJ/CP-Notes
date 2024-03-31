@@ -10,6 +10,8 @@ Typically involving the sum or product of the subarrays satisfying certain condi
 
 We can efficiently count the subarrays by fixing one end of the window (this pointer will be run as for-loop), and compute the other smaller subarrays once we find the smallest/largest window that satisfies the conditions.
 
+(Sometimes it may be unnecessary/impossible to maintain both `l` and `r` pointers. But it is still a valid approach to consider all subarrays by fixing one end, either `l` or `r`, using a for-loop.)
+
 ## Exactly K
 
 If we can solve the problem: How many **AtMost K** easily, we can find out How many **Exactly K** by `AtMost(K) - AtMost(K-1)`&#x20;
@@ -21,3 +23,5 @@ If we can solve the problem: How many **AtMost K** easily, we can find out How m
 {% embed url="https://leetcode.com/problems/subarray-product-less-than-k/description/" %}
 
 {% embed url="https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/description/" %}
+
+{% embed url="https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description/" %}
