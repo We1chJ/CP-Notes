@@ -8,6 +8,8 @@
 * [Prefix Sum](prefix-sum.md)
 * [Wormhole Traversal](wormhole-traversal.md)
 * [Sorting](sorting.md)
+* [Subsets](subsets.md)
+* [Backtracking](backtracking.md)
 * [Graph Theory](graph-theory/README.md)
   * [BFS](graph-theory/bfs.md)
   * [Floyd's Cycle Detection](graph-theory/floyds-cycle-detection.md)
