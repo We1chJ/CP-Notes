@@ -13,3 +13,4 @@
 * [Graph Theory](graph-theory/README.md)
   * [BFS](graph-theory/bfs.md)
   * [Floyd's Cycle Detection](graph-theory/floyds-cycle-detection.md)
+* [Bit-wise Operators](bit-wise-operators.md)
