@@ -14,3 +14,7 @@
   * [BFS](graph-theory/bfs.md)
   * [Floyd's Cycle Detection](graph-theory/floyds-cycle-detection.md)
 * [Bit-wise Operators](bit-wise-operators.md)
+
+## Language Specifics
+
+* [C++ Specifics](language-specifics/c++-specifics.md)
