@@ -16,13 +16,13 @@ Floyd's Cycle Detection can find more information about the cyclic graph:
 
 To find the cycle length, the difference between the distance  `fast` and `slow` pointer each travel is exactly the cycle length. Think of them as two runners on a track: Since the fast runner runs exactly **twice** as fast as the slow runner, the moment the fast runner catches the slow runner is exactly when the fast runner has traveled 1 complete cycle more than the slow runner.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Find Cycle Starting Point
 
 After the first collision/meet point of Floyd's Cycle Detection, we set one of the pointers back to the head of the whole list. Then, running both pointers at the same speed will cause them to meet again. That meeting point is exactly the entry point of the cycle. This image illustrates it well:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>From the Medium article introduced on top of this page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>From the Medium article introduced on top of this page</p></figcaption></figure>
 
 
 

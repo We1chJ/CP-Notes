@@ -2,18 +2,28 @@
 
 * [README](README.md)
 * [Misc](misc.md)
-* [Binary Search](binary-search.md)
-* [Sliding Window](sliding-window.md)
-* [Two Pointers](two-pointers.md)
-* [Prefix Sum](prefix-sum.md)
-* [Wormhole Traversal](wormhole-traversal.md)
-* [Sorting](sorting.md)
-* [Subsets](subsets.md)
-* [Backtracking](backtracking.md)
-* [Graph Theory](graph-theory/README.md)
-  * [BFS](graph-theory/bfs.md)
-  * [Floyd's Cycle Detection](graph-theory/floyds-cycle-detection.md)
-* [Bit-wise Operators](bit-wise-operators.md)
+
+## 😀 Foundementals
+
+* [Binary Search](foundementals/binary-search.md)
+* [Backtracking](foundementals/backtracking.md)
+* [Sorting](foundementals/sorting.md)
+* [Two Pointers](foundementals/two-pointers.md)
+* [Prefix Sum](foundementals/prefix-sum.md)
+* [Sliding Window](foundementals/sliding-window.md)
+* [Wormhole Traversal](foundementals/wormhole-traversal.md)
+
+## 😄 Advanced
+
+* [Bit-wise Operators](advanced/bit-wise-operators.md)
+* [Graph Theory](advanced/graph-theory/README.md)
+  * [BFS](advanced/graph-theory/bfs.md)
+  * [Floyd's Cycle Detection](advanced/graph-theory/floyds-cycle-detection.md)
+
+## 😭 Math
+
+* [Subsets](math/subsets.md)
+* [Permutation](math/permutation.md)
 
 ## Language Specifics
 

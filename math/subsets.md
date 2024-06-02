@@ -8,33 +8,25 @@ description: All about subsets
 
 A **subset** of an array is a selection of elements (possibly none) of the array.
 
+## Generating Subsets
 
+### 1. Recursive Calls
 
-## Generate all possible subsets of an array
+At each element, push one element into the array. Then make a recursive call to the function. After the call, pop out the element and continue to the next decision branch.&#x20;
 
-### 1. Backtracking
-
-At each element, push one element into the array. Then make recursive call to the function. After the call, pop out the element and continue to the next decision branch.
+The logic behind this is that, at every point, there are only two possibilities: either include the element or not. So we make two recursive calls to include all cases.
 
 ```cpp
-class Solution {
-public:
-    void bt(vector<int> & nums, vector<vector<int>> & res, int i, vector<int> &sub){
-        res.push_back(sub);
-        for(int a = i; a < nums.size(); a++){
-            sub.push_back(nums[a]);
-            bt(nums, res, a+1, sub);
-            sub.pop_back();
-        }
+void search(int k) {
+    if (k == n) {
+        // process subset
+    } else {
+        search(k+1);
+        subset.push_back(k);
+        search(k+1);
+        subset.pop_back();
     }
-
-    vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> res;
-        vector<int> sub;
-        bt(nums, res, 0, sub);
-        return res;
-    }
-};
+}
 ```
 
 ### 2. Bit Manipulation

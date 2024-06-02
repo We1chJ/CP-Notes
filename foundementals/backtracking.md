@@ -8,4 +8,4 @@ Backtracking is one of the techniques of a complete search algorithm.
 
 1. Generating all subsets (permutations)
 
-Read [#id-1.-backtracking](subsets.md#id-1.-backtracking "mention")
+Read [#id-1.-backtracking](../math/subsets.md#id-1.-backtracking "mention")
