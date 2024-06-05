@@ -12,6 +12,7 @@
 * [Prefix Sum](foundementals/prefix-sum.md)
 * [Sliding Window](foundementals/sliding-window.md)
 * [Wormhole Traversal](foundementals/wormhole-traversal.md)
+* [Greedy](foundementals/greedy.md)
 
 ## 😄 Advanced
 
