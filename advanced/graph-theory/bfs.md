@@ -16,6 +16,8 @@ BFS, on the other hand, traverses all nodes on each degree (or row, level, depth
 
 A queue is typically used for BFS and an iterative approach is usually taken.
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>From GeeksForGeeks</p></figcaption></figure>
+
 ## Order Level Traversal
 
 ```
