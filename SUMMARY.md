@@ -18,7 +18,7 @@
 
 * [Bit-wise Operators](advanced/bit-wise-operators.md)
 * [Graph Theory](advanced/graph-theory/README.md)
-  * [BFS](advanced/graph-theory/bfs.md)
+  * [Graph Traversal](advanced/graph-theory/bfs.md)
   * [Floyd's Cycle Detection](advanced/graph-theory/floyds-cycle-detection.md)
 
 ## 😭 Math
