@@ -16,7 +16,7 @@ Floyd's Cycle Detection can find more information about the cyclic graph:
 
 To find the cycle length, the difference between the distance  `fast` and `slow` pointer each travel is exactly the cycle length. Think of them as two runners on a track: Since the fast runner runs exactly **twice** as fast as the slow runner, the moment the fast runner catches the slow runner is exactly when the fast runner has traveled 1 complete cycle more than the slow runner.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Find Cycle Starting Point
 
