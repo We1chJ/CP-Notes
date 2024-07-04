@@ -22,6 +22,7 @@
   * [Graph Traversal](advanced/graph-theory/bfs.md)
   * [Floyd's Cycle Detection](advanced/graph-theory/floyds-cycle-detection.md)
   * [Bipartite](advanced/graph-theory/bipartite.md)
+* [Tree](advanced/tree.md)
 
 ## 😭 Math
 
