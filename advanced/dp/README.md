@@ -1,10 +1,8 @@
----
-description: Dynamic Programming :p
----
-
 # DP
 
 DP, dynamic programming, is one of the hardest topic for me at this point. :cry:
+
+The beauty of DP lies not only in its correctness of Brute Force but also in its elegantly efficient approach.&#x20;
 
 ## Definition (credits: CPH)
 
