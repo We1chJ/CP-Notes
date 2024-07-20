@@ -17,6 +17,8 @@
 
 ## 😄 Advanced
 
+* [DP](advanced/dp/README.md)
+  * [Page 1](advanced/dp/page-1.md)
 * [Disjoint Set Union (Union Find)](advanced/disjoint-set-union-union-find.md)
 * [Bit-wise Operators](advanced/bit-wise-operators.md)
 * [Graph Theory](advanced/graph-theory/README.md)
