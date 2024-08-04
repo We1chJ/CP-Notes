@@ -1,6 +1,7 @@
 # Table of contents
 
 * [README](README.md)
+* [Vocab](vocab.md)
 * [Misc](misc.md)
 
 ## 😀 Foundementals
@@ -18,7 +19,7 @@
 ## 😄 Advanced
 
 * [DP](advanced/dp/README.md)
-  * [Page 1](advanced/dp/page-1.md)
+  * [Longest Increasing Subsequence](advanced/dp/longest-increasing-subsequence.md)
 * [Disjoint Set Union (Union Find)](advanced/disjoint-set-union-union-find.md)
 * [Bit-wise Operators](advanced/bit-wise-operators.md)
 * [Graph Theory](advanced/graph-theory/README.md)
