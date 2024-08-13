@@ -43,3 +43,13 @@ Comparators usually compare two objects in the following way, in ascending order
 
 * If object $$xxx$$ is less than object $$yyy$$, return `true`
 * If object $$xxx$$ is greater than **or equal** to object $$yyy$$, return `false`
+
+## Typical Data Structures
+
+```cpp
+set<int, greater<int>> a;
+map<int, string, greater<int>> b;
+priority_queue<int, vector<int>, greater<int>> c;
+```
+
+Note: Priority queue by default is a max heap.

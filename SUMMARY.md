@@ -8,7 +8,6 @@
 
 * [Binary Search](foundementals/binary-search.md)
 * [Backtracking](foundementals/backtracking.md)
-* [Sorting](foundementals/sorting.md)
 * [Two Pointers](foundementals/two-pointers.md)
 * [Prefix Sum](foundementals/prefix-sum.md)
 * [Sliding Window](foundementals/sliding-window.md)
@@ -36,3 +35,4 @@
 ## Language Specifics
 
 * [C++ Specifics](language-specifics/c++-specifics.md)
+* [Sorting](language-specifics/sorting.md)
