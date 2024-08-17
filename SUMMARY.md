@@ -1,6 +1,7 @@
 # Table of contents
 
 * [README](README.md)
+* [CONTEST TIPS](contest-tips.md)
 * [Vocab](vocab.md)
 * [Misc](misc.md)
 
