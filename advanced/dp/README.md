@@ -18,3 +18,7 @@ To solve a problem using DP approach, one needs to find a **recursive formula** 
 Although the idea is somewhat straightforward, but it can be applied in a variety of problems, which makes it one of the hardest topics.&#x20;
 
 (which is why I made this a big chapter and broke it into several sub-pages to finish the content)
+
+## Common Optimizations or Tricks:
+
+1. The dimension of the dp array can be shrunk down when the next value is only dependent on the previous value. Therefore, for example, a 2D array storing all previous answers can be turned into only a 1D array for storing only the previous answers, which will then be updated. In this case, it is also common to traverse the array backward to avoid creating a new copy of the array.

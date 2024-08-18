@@ -19,6 +19,7 @@
 ## 😄 Advanced
 
 * [DP](advanced/dp/README.md)
+  * [Min/Max Values](advanced/dp/min-max-values.md)
   * [Longest Increasing Subsequence](advanced/dp/longest-increasing-subsequence.md)
 * [Disjoint Set Union (Union Find)](advanced/disjoint-set-union-union-find.md)
 * [Bit-wise Operators](advanced/bit-wise-operators.md)
