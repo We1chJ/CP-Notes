@@ -4,6 +4,8 @@ DP, dynamic programming, is one of the hardest topic for me at this point. :cry:
 
 The beauty of DP lies not only in its correctness of Brute Force but also in its elegantly efficient approach.&#x20;
 
+In its nutshell, DP is an iterative recursion approach...
+
 ## Definition (credits: CPH)
 
 **Dynamic programming** is a technique that combines the correctness of complete search and the efficiency of greedy algorithms. Dynamic programming can be applied if the problem can be divided into overlapping subproblems that can be solved independently.&#x20;
