@@ -7,6 +7,7 @@
 
 ## 😀 Foundementals
 
+* [Brute Force](foundementals/brute-force.md)
 * [Binary Search](foundementals/binary-search.md)
 * [Backtracking](foundementals/backtracking.md)
 * [Two Pointers](foundementals/two-pointers.md)
