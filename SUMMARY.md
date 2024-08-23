@@ -32,7 +32,7 @@
 
 ## 😭 Math
 
-* [GCD](math/gcd.md)
+* [GCD and LCM](math/gcd-and-lcm.md)
 * [Subsets](math/subsets.md)
 * [Permutation](math/permutation.md)
 
