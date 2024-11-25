@@ -41,3 +41,11 @@ E.g. take `10101` . If we do `~10101` -> `1 01010`
 Notice that there is an extra hidden bit in front. This bit is always there to in the computer system to represent the negative bits. If it is 0 nothing happens, which is why it's usually not shown. But if it is 1, it has a value of - 2^5, which essentially turns everything into negative numbers even if all other bits are 1.
 
 So let's say we want to find the complement of a number in bits, we will want to flip all bits but not the last one. What we can do is flip them all including the last bit, and then add the last bit back to cancel the effect.
+
+## Sums
+
+`a+b =(a & b) + (a | b)`
+
+It is also equal to: 2⋅(a\&b)+a⊕b
+
+Knowing this, when only the AND and OR are known, we can still compute the sum of two numbers.
