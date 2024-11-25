@@ -20,6 +20,10 @@ Yields 1 as long as one of the two bits is 1.
 
 ### XOR (^)
 
+XOR is one of the most commonly involved concepts in this topic.
+
+Each bit is independent from another for XOR.
+
 XOR operator (^) is **associative**, **commutative**, and **reversible**. Whenever you face a problem involving the XOR concept, try to use these properties. They will save you a lot of time and sometimes they are the key to the solutions.
 
 These properties mean that the order of a series of XOR operations does not matter. Most importantly, prefix sum can be applied if needed.
