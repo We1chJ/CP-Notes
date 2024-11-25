@@ -49,3 +49,5 @@ So let's say we want to find the complement of a number in bits, we will want to
 It is also equal to: 2⋅(a\&b)+a⊕b
 
 Knowing this, when only the AND and OR are known, we can still compute the sum of two numbers.
+
+**XOR can thus also be treated as summing two numbers together without carrying over!**
